@@ -1,0 +1,6 @@
+[package]
+name = "israel_working_days"
+version = "0.1.0"
+authors = ["salexln <salexln@gmail.com>"]
+
+[dependencies]
